@@ -19,7 +19,6 @@
 
 ### Programming
 - C++
-- c#
 
 ## Let's Connect!
 Feel free to reach out to me via https://www.linkedin.com/in/sabeshwara-subramaniyan-b-6b9554247/,
